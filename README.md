@@ -1,15 +1,10 @@
-# Adaptive Chatbots
+# TextWorld using LSTMDQN
 
-Current chatbot API's and custom made chatbots for websites are specific to topic with the exception of SIMON and other voice assistants like Alexa and Google, even they give a machine based reply with no human likeable language. This research project aims at applying the Knowledge of Text Based Reinforcement Learning to build a Adaptive Chatbot which can adapt to both technical and non-technical based chats and give a realtime experience to the user as if talking to another Human. The domain of Text Based Reinforcement Learning is under Research and has been improving as time is passing by at the same rate of technology. This project can have many applications, some of them are-
+TextWorld is one of the opensource Text-Based Game Engine started by Microsoft for Research Purposes.This Repository aims to 
+implement text Based Reinforcement Learning Using LSTM-DQN.
 
-* Social Bots
 
-* Finance
+TextWorld link-[link](https://textworld.readthedocs.io/en/latest/index.html)
+Paper-Language Understanding for Text-based Games Using Deep Reinforcement Learning [Link](https://arxiv.org/abs/1506.08941)
+Github Implementation Reference-[link](https://github.com/carpedm20/text-based-game-rl-tensorflow)
 
-* Space Travel
-
-* Looking over information over the Internet
-
-Further Applications will be updated...
-
-The code and the Architecture will be updated later on as it is still under development. The next update will be done by the end of March.
