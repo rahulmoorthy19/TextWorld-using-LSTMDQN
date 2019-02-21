@@ -1,0 +1,12 @@
+LSTM Based DQN
+
+This network contains 2 networks namely-
+
+1.Representation generator
+2.Action Scorer
+
+The Representation Generator is responsible for converting the raw test input to a feature vector using Long Short Term Memory Cell Recurrent Neural Network.
+
+The Action Scorer is responsible for using neural network to predict the action taken in the text based game using Batch Based Q Learning Network using Epsilon Greedy Algorithm
+
+RMSProp based optimizer is used along with Stochastic Gradient descent for Parameter tuning
