@@ -13,10 +13,3 @@ TextWorld link-[link](https://textworld.readthedocs.io/en/latest/index.html)
 Paper-Language Understanding for Text-based Games Using Deep Reinforcement Learning [Link](https://arxiv.org/abs/1506.08941)
 
 
-
-
-Github Implementation Reference-[link](https://github.com/carpedm20/text-based-game-rl-tensorflow)
-
-
-
-## The work is still under progress.Will be updated as soon as it is done
